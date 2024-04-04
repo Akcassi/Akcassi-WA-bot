@@ -16,7 +16,7 @@
 
 <b><details><summary>Pairing Code</summary></b>
 
-* Number hmangin pair theih a ni bawk [Pair your number](https://replit.com/@HBMods-OFC/HBWABot-PairCode?v=1)
+* Number hmangin pair theih a ni bawk [Pair your number](https://replit.com/@HBMods/HBWABot-Mizo-Pairing-Code?v=1)
 </details>
 
 <b><details><summary>Sign up Heroku Account</summary></b>
