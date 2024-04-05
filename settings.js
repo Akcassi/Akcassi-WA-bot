@@ -2,8 +2,8 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.AntiCallBot = true // false a i dah chuan, rawn call-tu che automatic a block a ni lovang
-global.GroupWcMsg = true // false a i dah chuan welcome message i off ang
+global.AntiCallBot = false // false a i dah chuan, rawn call-tu che automatic a block a ni lovang
+global.GroupWcMsg = false // false a i dah chuan welcome message i off ang
 global.autoTyping = false // true a i dah chuan i type la a lang ang
 global.autoRecord = false // true a i dah chuan Voice record angin i lang ang
 global.available = true // false a i dah chuan offline angin a awm ang
@@ -30,7 +30,7 @@ global.sessionName = 'session'
 
 // Sticker Pack Name
 global.packname = "Sticker By"
-global.author = "HBWABot"
+global.author = "AkcassiWABot"
 global.hbmods = "https://herbert70.blogspot.com/"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
